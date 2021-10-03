@@ -1,0 +1,14 @@
+.header{
+    font-size: 20px;
+    font-weight: 700;
+}
+.container
+{
+    width: 1400px;
+    margin-left:200px ;
+    background-color: rgb(65,150,164);
+    color: white;
+    padding: 20px;
+    margin-bottom: 12px;
+    margin-top: 8px;
+}
